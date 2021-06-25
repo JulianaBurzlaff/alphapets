@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="alphapets" title="alphapets" src=".github/logo.png" width="25%">
+  <img alt="alphapets" title="alphapets" src="github/logo.png" width="25%">
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/alphapets.png" width="100%">
+  <img alt="Happy" src="github/alphapets.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
