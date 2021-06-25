@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* :root {
+  --primary: #0ebf81;
+  --text-primary: #3c3d40;
+  --text-secondary: #459882;
+  --placeholder: #aeaab7;
+  --success: #60d651;
+  --error: #c04a3f;
+  --white: #ffffff;
+  --background: #e8f3f1;
+  --border: #e6f0ec;
+  --button: #4651c5;
+} */
